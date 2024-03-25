@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">Hello, i'm roustytousty!</h1>
+<h1 align="left">Hello, i'm RoustyTousty!</h1>
 
 ###
 
