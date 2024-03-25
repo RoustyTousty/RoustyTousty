@@ -1,14 +1,14 @@
-<img align="right" height="400" src="https://i.imgur.com/J1pTNep.jpg"  />
+
 
 ###
 
 <h1 align="left">Hello, i'm roustytousty!</h1>
 
-
+###
 
 <p align="left">A softwere development (Student) mostly skilled in Java and Kotlin. (PaperMC API)</p>
 
-
+###
 
 <h2 align="left">About me</h2>
 
