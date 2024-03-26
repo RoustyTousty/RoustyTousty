@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ +5 years of coding experience<br>📚 Minecraft plugin/server expert<br>🎯 Logical thinking<br>🎲 "Hello World!" - expert</p>
+<p align="left">✨ +5 years of coding experience<br>📚 Minecraft plugin/server developer<br>🎯 Logical thinking<br>🎲 "Hello World!" - expert</p>
 
 ###
 
@@ -61,7 +61,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="blender logo"  />
 </div>
 
 ###
