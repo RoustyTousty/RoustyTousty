@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ +5 years of coding experience<br>📚 Minecraft plugin/server developer<br>🎯 Logical thinking<br>🎲 "Hello World!" - expert</p>
+<p align="left">✨ +5 years of coding experience<br>📚 Minecraft plugin/server developer<br>🎯 Totaly never made ugly code<br>🎲 "Hello World!" - expert</p>
 
 ###
 
